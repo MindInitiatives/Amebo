@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "601476661282",
+    "firebase_url": "https://amebo-b89b4.firebaseio.com",
+    "project_id": "amebo-b89b4",
+    "storage_bucket": "amebo-b89b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601476661282:android:9e3c533c1eeae8ae",
+        "android_client_info": {
+          "package_name": "com.mindinitiatives.amebo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601476661282-u5lhndesuf24pmai970vd8gqlq5peg56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mindinitiatives.amebo",
+            "certificate_hash": "6feb902b6301eda8e68394b8a07ad19178570e2a"
+          }
+        },
+        {
+          "client_id": "601476661282-vlr0d8cqlrbucg8c79drenhn822ujonm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfLMlZAW73fD1A3WEqJ2YtBXt604tRn0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601476661282-vlr0d8cqlrbucg8c79drenhn822ujonm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

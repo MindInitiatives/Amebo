@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Amebo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Contacts_Fragment">Contacts Fragment</string>
+    <string name="Groups_Fragment">Groups Fragment</string>
+    <string name="Chats_Fragment">Chats Fragment</string>
+</resources>
